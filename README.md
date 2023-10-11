@@ -1,2 +1,2 @@
 # ecommercediagramandqueries
-diagram and queries
+look at the diagram to understand the query context
