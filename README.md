@@ -1,0 +1,2 @@
+# ecommercediagramandqueries
+diagram and queries
